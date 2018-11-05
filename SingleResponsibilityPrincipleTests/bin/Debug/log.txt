@@ -1,3 +1,6 @@
 <log><type>WARN</type><message>Trade amount cannot be less than 10,000 : '999'</message></log>
 <log><type>WARN</type><message>Trade amount cannot be less than 10,000 : '-10000'</message></log>
 <log><type>WARN</type><message>Trade amount cannot exceed 100,000 : '1000001'</message></log>
+<log><type>WARN</type><message>Trade amount cannot be less than 10,000 : '999'</message></log>
+<log><type>WARN</type><message>Trade amount cannot be less than 10,000 : '-10000'</message></log>
+<log><type>WARN</type><message>Trade amount cannot exceed 100,000 : '1000001'</message></log>
